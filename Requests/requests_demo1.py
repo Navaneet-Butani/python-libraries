@@ -25,7 +25,7 @@ print(x)    # Will print object sent from server of link.
 #             #            2)False : if 'status_code is >=400' (Which means there is client or server error) 
 #             # This type of work is done to see how our or other site is working at particular time      
 
-# print(x.headers) # Will print all the header information like server, content-type, Last-modificatio etc. 
+# print(x.headers) # Will print all the header information like server, content-type, Last-modification etc. 
 
 
 
